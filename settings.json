@@ -8,5 +8,5 @@
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true,
-  "open_files_in_new_window": "always",
+  	"open_files_in_new_window": "always",
 }
